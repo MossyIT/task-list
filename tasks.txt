@@ -1,0 +1,10 @@
+30;ViSenze;8;Andrew Mossbarger;Operations
+23;Take a sample;4;Caleb Mossbarger;Operations
+2;Plug in your phone;1;James;Communications
+17;Wipe down the tables;10;Jerome;Inventory
+8;Take out the trash;1;Elliot Briggs;Maintenance
+24;Drink diet Coke;1;Luke Mossbarger;Others
+1;Light the engine;3;Oliver ;Others
+17;Steal credit card information;5;Leonardo DiCaprio;Communications
+11;Sample the bacteria;2;Zachary Mossbarger;Operations
+15;Do Science;2;Zachary Mossbarger;Operations
